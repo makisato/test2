@@ -7,3 +7,6 @@ test
 
 
 stestt
+
+
+gitに直接追加してみる
